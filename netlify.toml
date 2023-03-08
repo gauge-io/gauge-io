@@ -8,5 +8,5 @@
 # home
 
   from = "gauge-io.webflow.io/"
-  to = "/:splat"
+  to = "gauge.io/:splat"
   status = 301
