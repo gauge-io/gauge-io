@@ -7,6 +7,4 @@
   from = "/services"
   to = "https://gauge-io.webflow.io/services/services"
   
-  from = "/*"
-  to = "https://gauge-io.webflow.io/"
   status = 200
