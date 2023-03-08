@@ -7,12 +7,6 @@
 
 # home
 
-  from = "/"
-  to = "https://gauge-io.webflow.io"
- 
-  from = "/services"
-  to = "https://gauge-io.webflow.io/services/services/"
-
-
-
-  status = 200
+  from = "/*"
+  to = "/gauge-io.webflow.io/:splat"
+  status = 301
