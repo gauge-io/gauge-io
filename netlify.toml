@@ -4,9 +4,10 @@
 
 [[redirects]]
 
-
 # home
 
-  from = "https://gauge-io.webflow.io/"
-  to = "https://gauge.io/"
-  status = 301
+[[redirects]]
+  from = “/*”
+  to = "https://gauge-io.webflow.io/:splat"
+  status = 200
+  force = true
