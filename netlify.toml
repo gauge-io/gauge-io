@@ -1,8 +1,8 @@
 
 # The following redirect is intended for use with most SPAs
 # that handle routing internally.
+
 [[redirects]]
-
-
-https://gauge-io.webflow.io/* https://gauge.io/:splat 301!
-
+  from = "https://gauge-io.webflow.io/*"
+  to = "https://gauge.io/"
+  status = 200
