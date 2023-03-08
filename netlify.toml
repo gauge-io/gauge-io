@@ -7,7 +7,6 @@
 # home
 
 [[redirects]]
-  from = “/*”
-  to = "https://gauge-io.webflow.io/:splat"
+  from = "https://gauge-io.webflow.io/"
+  to = “/:splat”
   status = 200
-  force = true
