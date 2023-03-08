@@ -1,8 +1,12 @@
 
 # The following redirect is intended for use with most SPAs
 # that handle routing internally.
+
 [[redirects]]
 
+  from = "https://gauge.io/services"
+  to = "https://gauge-io.webflow.io/services/services"
+  
   from = "/*"
   to = "https://gauge-io.webflow.io/"
   status = 200
