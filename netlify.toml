@@ -4,7 +4,54 @@
 
 [[redirects]]
 
-  from = "/services"
-  to = "https://gauge-io.webflow.io/services/services"
-  
+# services
+
+  from = "https://gauge.io/services"
+  to = "https://gauge-io.webflow.io/services/services/"
+
+# case studies x4
+
+  from = "https://gauge.io/case-studies/making-the-case-for-internal-tools"
+  to = "https://gauge-io.webflow.io/case-studies/making-the-case-for-internal-tools"
+
+  from = "https://gauge.io/case-studies/visualizing-infomation-security-threat-vectors"
+  to = "https://gauge-io.webflow.io/case-studies/visualizing-information-security-threat-vectors"
+
+  from = "https://gauge.io/case-studies/validating-research-hypotheses-at-scale"
+  to = "https://gauge-io.webflow.io/case-studies/validating-research-hypotheses-at-scale"
+
+  from = "https://gauge.io/case-studies/behavior-and-identity-in-virtual-worlds"
+  to = "https://gauge-io.webflow.io/case-studies/behavior-and-identity-in-virtual-worlds"
+
+# industries x6
+
+  from = "https://gauge.io/industries/education"
+  to = "https://gauge-io.webflow.io/industries/education"
+
+  from = "https://gauge.io/industries/civics-and-transport"
+  to = "https://gauge-io.webflow.io/industries/civics-and-transport"
+
+  from = "https://gauge.io/industries/developer-operations"
+  to = "https://gauge-io.webflow.io/industries/developer-operations"
+
+  from = "https://gauge.io/industries/information-security"
+  to = "https://gauge-io.webflow.io/industries/information-security"
+
+  from = "https://gauge.io/industries/gaming-and-virtual-worlds"
+  to = "https://gauge-io.webflow.io/industries/gaming-and-virtual-worlds"
+
+  from = "https://gauge.io/industries/financial-technology"
+  to = "https://gauge-io.webflow.io/industries/financial-technology"
+
+# about
+
+  from = "https://gauge.io/about"
+  to = "https://gauge-io.webflow.io/about"
+
+# contact
+
+  from = "https://gauge.io/contact"
+  to = "https://gauge-io.webflow.io/contact"
+ 
   status = 200
+  force = true
