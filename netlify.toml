@@ -3,6 +3,78 @@
 # that handle routing internally.
 
 [[redirects]]
-  from = "https://gauge-io.webflow.io/*"
-  to = "https://gauge.io/"
+
+# services
+
+  from = "/services"
+  to = "https://gauge-io.webflow.io/services/services/"
   status = 200
+  force = true
+
+# case studies x4
+
+  from = "/case-studies/making-the-case-for-internal-tools"
+  to = "https://gauge-io.webflow.io/case-studies/making-the-case-for-internal-tools"
+  status = 200
+  force = true
+
+  from = "/case-studies/visualizing-infomation-security-threat-vectors"
+  to = "https://gauge-io.webflow.io/case-studies/visualizing-information-security-threat-vectors"
+  status = 200
+  force = true
+
+  from = "/case-studies/validating-research-hypotheses-at-scale"
+  to = "https://gauge-io.webflow.io/case-studies/validating-research-hypotheses-at-scale"
+  status = 200
+  force = true
+
+  from = "/case-studies/behavior-and-identity-in-virtual-worlds"
+  to = "https://gauge-io.webflow.io/case-studies/behavior-and-identity-in-virtual-worlds"
+  status = 200
+  force = true
+
+# industries x6
+
+  from = "/industries/education"
+  to = "https://gauge-io.webflow.io/industries/education"
+  status = 200
+  force = true
+
+  from = "/industries/civics-and-transport"
+  to = "https://gauge-io.webflow.io/industries/civics-and-transport"
+  status = 200
+  force = true
+
+  from = "/industries/developer-operations"
+  to = "https://gauge-io.webflow.io/industries/developer-operations"
+  status = 200
+  force = true
+
+  from = "/industries/information-security"
+  to = "https://gauge-io.webflow.io/industries/information-security"
+  status = 200
+  force = true
+
+  from = "/industries/gaming-and-virtual-worlds"
+  to = "https://gauge-io.webflow.io/industries/gaming-and-virtual-worlds"
+  status = 200
+  force = true
+
+  from = "/industries/financial-technology"
+  to = "https://gauge-io.webflow.io/industries/financial-technology"
+  status = 200
+  force = true
+
+# about
+
+  from = "/about"
+  to = "https://gauge-io.webflow.io/about"
+  status = 200
+  force = true
+
+# contact
+
+  from = "/contact"
+  to = "https://gauge-io.webflow.io/contact"
+  status = 200
+  force = true
