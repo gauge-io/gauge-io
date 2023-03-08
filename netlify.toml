@@ -7,3 +7,4 @@
   from = "/*"
   to = "https://gauge-io.webflow.io/:splat"
   status = 200
+  force = true
