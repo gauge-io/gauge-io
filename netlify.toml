@@ -5,7 +5,7 @@
 
 # home
 
-  from = "/"
+  from = "/*"
   to = "https://gauge-io.webflow.io/"
   status = 200
 
