@@ -3,10 +3,6 @@
 # that handle routing internally.
 [[redirects]]
 
-  from = "/*/services"
-  to = "https://gauge-io.webflow.io/services/services/"
-  status = 200
-
   from = "/*"
   to = "https://gauge-io.webflow.io/"
   status = 200
