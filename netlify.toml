@@ -10,5 +10,9 @@
   from = "/*"
   to = "https://gauge-io.webflow.io"
  
+  from = "/services"
+  to = "https://gauge-io.webflow.io/services/services/"
+
+
 
   status = 200
