@@ -4,8 +4,8 @@
 
 [[redirects]]
 
-  from = "https://gauge.io/services/"
-  to = "https://gauge-io.webflow.io/services/services/"
+  from = "/"
+  to = "https://gauge-io.webflow.io/"
   status = 200
-  force = true
-
+  force = false
+  query = {path = ":path"} #  apply this rule for /old-path?path=example
