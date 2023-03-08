@@ -7,6 +7,6 @@
 
 # home
 
-  from = "gauge-io.webflow.io/"
-  to = "gauge.io/:splat"
+  from = "https://gauge-io.webflow.io/"
+  to = "https://gauge.io/"
   status = 301
