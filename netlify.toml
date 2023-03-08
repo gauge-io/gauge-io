@@ -8,5 +8,5 @@
 
 [[redirects]]
   from = "https://gauge-io.webflow.io/"
-  to = "/:splat”
+  to = "/:splat"
   status = 200
