@@ -4,7 +4,7 @@
 
 [[redirects]]
 
-  from = "https://gauge.io/services"
+  from = "https://gauge.io/services/"
   to = "https://gauge-io.webflow.io/services/services/"
   status = 200
   force = true
