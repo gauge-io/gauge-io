@@ -7,7 +7,7 @@
 
 # home
 
-  from = "/*"
+  from = "/"
   to = "https://gauge-io.webflow.io"
  
   from = "/services"
